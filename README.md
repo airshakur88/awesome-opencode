@@ -521,6 +521,15 @@ sync and targeted validation checks, and helps keep repo knowledge branch-local 
 </details>
 
 <details>
+  <summary><b>OmO</b> <img src="https://badgen.net/github/stars/orgShtora-1/omo" height="14"/> - <i>Agent orchestration with durable plans, parallel delegation and verification</i></summary>
+  <blockquote>
+    Native OpenCode V2 plugin that turns the host into an orchestrated agent runtime: durable plans with evidence-gated steps (a step only completes when its evidence verifies), bounded parallel delegation to 17 routed agent profiles with disjoint file ownership, session todos joined with live plan progress, handoff artifacts, memory with dream/time reflection, LSP intelligence with reviewed edits, and an optional TUI face. Install with <code>opencode plugin add @shtora/omo</code>.
+    <br><br>
+    <a href="https://github.com/orgShtora-1/omo">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Open Conclave</b> <img src="https://badgen.net/github/stars/martinzokov/open-conclave" height="14"/> - <i>Multi-agent debates, moderated by a captain agent until they reach consensus</i></summary>
   <blockquote>
     In the style of Grok 4.20, multiple agents are dispatched to answer the same query. Each one has a different system prompt (logical, creative, research-focused) and have to reach a consensus for the final output. The user can specify which provider/model they want to use and override the system prompt of each agent via config.
